@@ -1,0 +1,17 @@
+D:\VNTrackPal\src\VNTrackPal.Application\bin\Debug\net8.0\VNTrackPal.Application.deps.json
+D:\VNTrackPal\src\VNTrackPal.Application\bin\Debug\net8.0\VNTrackPal.Application.dll
+D:\VNTrackPal\src\VNTrackPal.Application\bin\Debug\net8.0\VNTrackPal.Application.pdb
+D:\VNTrackPal\src\VNTrackPal.Application\obj\Debug\net8.0\VNTrackPal.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\VNTrackPal\src\VNTrackPal.Application\obj\Debug\net8.0\VNTrackPal.Application.AssemblyInfoInputs.cache
+D:\VNTrackPal\src\VNTrackPal.Application\obj\Debug\net8.0\VNTrackPal.Application.AssemblyInfo.cs
+D:\VNTrackPal\src\VNTrackPal.Application\obj\Debug\net8.0\VNTrackPal.Application.csproj.CoreCompileInputs.cache
+D:\VNTrackPal\src\VNTrackPal.Application\obj\Debug\net8.0\VNTrackPal.Application.dll
+D:\VNTrackPal\src\VNTrackPal.Application\obj\Debug\net8.0\refint\VNTrackPal.Application.dll
+D:\VNTrackPal\src\VNTrackPal.Application\obj\Debug\net8.0\VNTrackPal.Application.pdb
+D:\VNTrackPal\src\VNTrackPal.Application\obj\Debug\net8.0\ref\VNTrackPal.Application.dll
+D:\VNTrackPal\src\VNTrackPal.Application\bin\Debug\net8.0\VNTrackPal.Contract.dll
+D:\VNTrackPal\src\VNTrackPal.Application\bin\Debug\net8.0\VNTrackPal.Domain.dll
+D:\VNTrackPal\src\VNTrackPal.Application\bin\Debug\net8.0\VNTrackPal.Contract.pdb
+D:\VNTrackPal\src\VNTrackPal.Application\bin\Debug\net8.0\VNTrackPal.Domain.pdb
+D:\VNTrackPal\src\VNTrackPal.Application\obj\Debug\net8.0\VNTrackPal.Application.csproj.AssemblyReference.cache
+D:\VNTrackPal\src\VNTrackPal.Application\obj\Debug\net8.0\VNTrackP.2E66B73E.Up2Date

@@ -1,0 +1,17 @@
+﻿global using VNTrackPal.Contract.Behaviors;
+global using FluentValidation;
+global using MediatR;
+global using Microsoft.Extensions.DependencyInjection;
+global using System.Linq.Expressions;
+global using VNTrackPal.Application.Persistence;
+global using VNTrackPal.Contract.Abstractions.Message;
+global using VNTrackPal.Contract.Infrastructure.Services;
+global using VNTrackPal.Domain.Models;
+global using VNTrackPal.Contract.Exceptions.BussinessExceptions;
+global using Newtonsoft.Json;
+global using Mapster;
+global using VNTrackPal.Contract.Common.Messages;
+global using VNTrackPal.Contract.Abstractions.Shared;
+global using VNTrackPal.Contract.Common.Constants;
+global using VNTrackPal.Contract.Settings;
+global using Microsoft.Extensions.Options;

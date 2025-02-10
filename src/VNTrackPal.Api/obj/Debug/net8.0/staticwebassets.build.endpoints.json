@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "EmailTemplates/UserCreatedEmail.html",
+      "AssetFile": "EmailTemplates/UserCreatedEmail.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1620"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mwpmPfanhA+9XyoLoOuvQf7PrcxcWQwbihAnjoHdxds=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Feb 2025 09:18:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mwpmPfanhA+9XyoLoOuvQf7PrcxcWQwbihAnjoHdxds="
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/UserCreatedEmail.pr49xlozm9.html",
+      "AssetFile": "EmailTemplates/UserCreatedEmail.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1620"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mwpmPfanhA+9XyoLoOuvQf7PrcxcWQwbihAnjoHdxds=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Feb 2025 09:18:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pr49xlozm9"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mwpmPfanhA+9XyoLoOuvQf7PrcxcWQwbihAnjoHdxds="
+        },
+        {
+          "Name": "label",
+          "Value": "EmailTemplates/UserCreatedEmail.html"
+        }
+      ]
+    }
+  ]
+}

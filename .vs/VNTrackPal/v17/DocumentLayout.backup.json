@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VNTrackPal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC138C36-1114-4059-96FD-7A7FB01077FA}|src\\VNTrackPal.Presentation\\VNTrackPal.Presentation.csproj|d:\\vntrackpal\\src\\vntrackpal.presentation\\controllers\\v1\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC138C36-1114-4059-96FD-7A7FB01077FA}|src\\VNTrackPal.Presentation\\VNTrackPal.Presentation.csproj|solutionrelative:src\\vntrackpal.presentation\\controllers\\v1\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E677D42-544A-4AAA-B599-3D7A6198146F}|src\\VNTrackPal.Api\\VNTrackPal.Api.csproj|d:\\vntrackpal\\src\\vntrackpal.api\\depedencyinjection\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E677D42-544A-4AAA-B599-3D7A6198146F}|src\\VNTrackPal.Api\\VNTrackPal.Api.csproj|solutionrelative:src\\vntrackpal.api\\depedencyinjection\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E677D42-544A-4AAA-B599-3D7A6198146F}|src\\VNTrackPal.Api\\VNTrackPal.Api.csproj|d:\\vntrackpal\\src\\vntrackpal.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E677D42-544A-4AAA-B599-3D7A6198146F}|src\\VNTrackPal.Api\\VNTrackPal.Api.csproj|solutionrelative:src\\vntrackpal.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C984858-B9EA-4BFF-9C5D-1E633F492222}|src\\VNTrackPal.Application\\VNTrackPal.Application.csproj|d:\\vntrackpal\\src\\vntrackpal.application\\usecases\\v1\\queries\\auth\\loginqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C984858-B9EA-4BFF-9C5D-1E633F492222}|src\\VNTrackPal.Application\\VNTrackPal.Application.csproj|solutionrelative:src\\vntrackpal.application\\usecases\\v1\\queries\\auth\\loginqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\VNTrackPal\\src\\VNTrackPal.Presentation\\Controllers\\V1\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\VNTrackPal.Presentation\\Controllers\\V1\\AuthController.cs",
+              "ToolTip": "D:\\VNTrackPal\\src\\VNTrackPal.Presentation\\Controllers\\V1\\AuthController.cs",
+              "RelativeToolTip": "src\\VNTrackPal.Presentation\\Controllers\\V1\\AuthController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAxwEkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T09:05:12.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "D:\\VNTrackPal\\src\\VNTrackPal.Api\\DepedencyInjection\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "src\\VNTrackPal.Api\\DepedencyInjection\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "D:\\VNTrackPal\\src\\VNTrackPal.Api\\DepedencyInjection\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "src\\VNTrackPal.Api\\DepedencyInjection\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T09:04:21.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VNTrackPal\\src\\VNTrackPal.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\VNTrackPal.Api\\Program.cs",
+              "ToolTip": "D:\\VNTrackPal\\src\\VNTrackPal.Api\\Program.cs",
+              "RelativeToolTip": "src\\VNTrackPal.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T09:01:29.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginQueryHandler.cs",
+              "DocumentMoniker": "D:\\VNTrackPal\\src\\VNTrackPal.Application\\UseCases\\V1\\Queries\\Auth\\LoginQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\VNTrackPal.Application\\UseCases\\V1\\Queries\\Auth\\LoginQueryHandler.cs",
+              "ToolTip": "D:\\VNTrackPal\\src\\VNTrackPal.Application\\UseCases\\V1\\Queries\\Auth\\LoginQueryHandler.cs",
+              "RelativeToolTip": "src\\VNTrackPal.Application\\UseCases\\V1\\Queries\\Auth\\LoginQueryHandler.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwBgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T09:00:09.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

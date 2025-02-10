@@ -1,0 +1,11 @@
+D:\VNTrackPal\src\VNTrackPal.Domain\bin\Debug\net8.0\VNTrackPal.Domain.deps.json
+D:\VNTrackPal\src\VNTrackPal.Domain\bin\Debug\net8.0\VNTrackPal.Domain.dll
+D:\VNTrackPal\src\VNTrackPal.Domain\bin\Debug\net8.0\VNTrackPal.Domain.pdb
+D:\VNTrackPal\src\VNTrackPal.Domain\obj\Debug\net8.0\VNTrackPal.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\VNTrackPal\src\VNTrackPal.Domain\obj\Debug\net8.0\VNTrackPal.Domain.AssemblyInfoInputs.cache
+D:\VNTrackPal\src\VNTrackPal.Domain\obj\Debug\net8.0\VNTrackPal.Domain.AssemblyInfo.cs
+D:\VNTrackPal\src\VNTrackPal.Domain\obj\Debug\net8.0\VNTrackPal.Domain.csproj.CoreCompileInputs.cache
+D:\VNTrackPal\src\VNTrackPal.Domain\obj\Debug\net8.0\VNTrackPal.Domain.dll
+D:\VNTrackPal\src\VNTrackPal.Domain\obj\Debug\net8.0\refint\VNTrackPal.Domain.dll
+D:\VNTrackPal\src\VNTrackPal.Domain\obj\Debug\net8.0\VNTrackPal.Domain.pdb
+D:\VNTrackPal\src\VNTrackPal.Domain\obj\Debug\net8.0\ref\VNTrackPal.Domain.dll

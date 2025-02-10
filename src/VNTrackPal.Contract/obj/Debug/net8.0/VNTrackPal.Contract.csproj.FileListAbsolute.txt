@@ -1,0 +1,12 @@
+D:\VNTrackPal\src\VNTrackPal.Contract\obj\Debug\net8.0\VNTrackPal.Contract.csproj.AssemblyReference.cache
+D:\VNTrackPal\src\VNTrackPal.Contract\obj\Debug\net8.0\VNTrackPal.Contract.GeneratedMSBuildEditorConfig.editorconfig
+D:\VNTrackPal\src\VNTrackPal.Contract\obj\Debug\net8.0\VNTrackPal.Contract.AssemblyInfoInputs.cache
+D:\VNTrackPal\src\VNTrackPal.Contract\obj\Debug\net8.0\VNTrackPal.Contract.AssemblyInfo.cs
+D:\VNTrackPal\src\VNTrackPal.Contract\obj\Debug\net8.0\VNTrackPal.Contract.csproj.CoreCompileInputs.cache
+D:\VNTrackPal\src\VNTrackPal.Contract\bin\Debug\net8.0\VNTrackPal.Contract.deps.json
+D:\VNTrackPal\src\VNTrackPal.Contract\bin\Debug\net8.0\VNTrackPal.Contract.dll
+D:\VNTrackPal\src\VNTrackPal.Contract\bin\Debug\net8.0\VNTrackPal.Contract.pdb
+D:\VNTrackPal\src\VNTrackPal.Contract\obj\Debug\net8.0\VNTrackPal.Contract.dll
+D:\VNTrackPal\src\VNTrackPal.Contract\obj\Debug\net8.0\refint\VNTrackPal.Contract.dll
+D:\VNTrackPal\src\VNTrackPal.Contract\obj\Debug\net8.0\VNTrackPal.Contract.pdb
+D:\VNTrackPal\src\VNTrackPal.Contract\obj\Debug\net8.0\ref\VNTrackPal.Contract.dll

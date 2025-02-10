@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "76NgbFhrBDzvpXIKPNPoskgYXG+rkPbG2cy6ZkgNiPo=",
+  "Source": "VNTrackPal.Api",
+  "BasePath": "_content/VNTrackPal.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "VNTrackPal.Api\\wwwroot",
+      "Source": "VNTrackPal.Api",
+      "ContentRoot": "D:\\VNTrackPal\\src\\VNTrackPal.Api\\wwwroot\\",
+      "BasePath": "_content/VNTrackPal.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\VNTrackPal\\src\\VNTrackPal.Api\\wwwroot\\EmailTemplates\\UserCreatedEmail.html",
+      "SourceId": "VNTrackPal.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\VNTrackPal\\src\\VNTrackPal.Api\\wwwroot\\",
+      "BasePath": "_content/VNTrackPal.Api",
+      "RelativePath": "EmailTemplates/UserCreatedEmail#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pr49xlozm9",
+      "Integrity": "mwpmPfanhA+9XyoLoOuvQf7PrcxcWQwbihAnjoHdxds=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\EmailTemplates\\UserCreatedEmail.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "EmailTemplates/UserCreatedEmail.html",
+      "AssetFile": "D:\\VNTrackPal\\src\\VNTrackPal.Api\\wwwroot\\EmailTemplates\\UserCreatedEmail.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1620"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mwpmPfanhA+9XyoLoOuvQf7PrcxcWQwbihAnjoHdxds=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Feb 2025 09:18:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mwpmPfanhA+9XyoLoOuvQf7PrcxcWQwbihAnjoHdxds="
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/UserCreatedEmail.pr49xlozm9.html",
+      "AssetFile": "D:\\VNTrackPal\\src\\VNTrackPal.Api\\wwwroot\\EmailTemplates\\UserCreatedEmail.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1620"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mwpmPfanhA+9XyoLoOuvQf7PrcxcWQwbihAnjoHdxds=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Feb 2025 09:18:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pr49xlozm9"
+        },
+        {
+          "Name": "label",
+          "Value": "EmailTemplates/UserCreatedEmail.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mwpmPfanhA+9XyoLoOuvQf7PrcxcWQwbihAnjoHdxds="
+        }
+      ]
+    }
+  ]
+}

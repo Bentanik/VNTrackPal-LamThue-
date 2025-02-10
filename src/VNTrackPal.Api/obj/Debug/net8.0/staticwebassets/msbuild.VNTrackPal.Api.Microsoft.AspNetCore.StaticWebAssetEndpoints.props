@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/VNTrackPal.Api/EmailTemplates/UserCreatedEmail.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\EmailTemplates\UserCreatedEmail.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mwpmPfanhA\u002B9XyoLoOuvQf7PrcxcWQwbihAnjoHdxds="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1620"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022mwpmPfanhA\u002B9XyoLoOuvQf7PrcxcWQwbihAnjoHdxds=\u0022"},{"Name":"Last-Modified","Value":"Mon, 03 Feb 2025 09:18:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/VNTrackPal.Api/EmailTemplates/UserCreatedEmail.pr49xlozm9.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\EmailTemplates\UserCreatedEmail.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pr49xlozm9"},{"Name":"integrity","Value":"sha256-mwpmPfanhA\u002B9XyoLoOuvQf7PrcxcWQwbihAnjoHdxds="},{"Name":"label","Value":"_content/VNTrackPal.Api/EmailTemplates/UserCreatedEmail.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1620"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022mwpmPfanhA\u002B9XyoLoOuvQf7PrcxcWQwbihAnjoHdxds=\u0022"},{"Name":"Last-Modified","Value":"Mon, 03 Feb 2025 09:18:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,137 @@
+[
+  {
+    "ContainingType": "VNTrackPal.Api.DepedencyInjection.Extensions.SwaggerExtensions\u002B\u003C\u003Ec",
+    "Method": "\u003CConfigureSwagger\u003Eb__1_1",
+    "RelativePath": "",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      ""
+    ]
+  },
+  {
+    "ContainingType": "VNTrackPal.Presentation.Controllers.V1.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/v1/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Login",
+        "Type": "VNTrackPal.Contract.Services.Auth.Query\u002BLoginQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 404
+      }
+    ],
+    "EndpointName": "LoginQuery"
+  },
+  {
+    "ContainingType": "VNTrackPal.Presentation.Controllers.V1.AuthController",
+    "Method": "Logout",
+    "RelativePath": "api/v1/Auth/logout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 404
+      }
+    ],
+    "EndpointName": "Logout"
+  },
+  {
+    "ContainingType": "VNTrackPal.Presentation.Controllers.V1.AuthController",
+    "Method": "RefreshToken",
+    "RelativePath": "api/v1/Auth/refresh-token",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 404
+      }
+    ],
+    "EndpointName": "RefreshToken"
+  },
+  {
+    "ContainingType": "VNTrackPal.Presentation.Controllers.V1.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/v1/Auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "VNTrackPal.Contract.Services.Auth.Command\u002BRegisterCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 404
+      }
+    ],
+    "EndpointName": "Register"
+  }
+]

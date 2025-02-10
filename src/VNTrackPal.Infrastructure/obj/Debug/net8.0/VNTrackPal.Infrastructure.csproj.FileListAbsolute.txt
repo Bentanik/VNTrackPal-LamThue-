@@ -1,0 +1,15 @@
+D:\VNTrackPal\src\VNTrackPal.Infrastructure\bin\Debug\net8.0\VNTrackPal.Infrastructure.deps.json
+D:\VNTrackPal\src\VNTrackPal.Infrastructure\bin\Debug\net8.0\VNTrackPal.Infrastructure.dll
+D:\VNTrackPal\src\VNTrackPal.Infrastructure\bin\Debug\net8.0\VNTrackPal.Infrastructure.pdb
+D:\VNTrackPal\src\VNTrackPal.Infrastructure\obj\Debug\net8.0\VNTrackPal.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\VNTrackPal\src\VNTrackPal.Infrastructure\obj\Debug\net8.0\VNTrackPal.Infrastructure.AssemblyInfoInputs.cache
+D:\VNTrackPal\src\VNTrackPal.Infrastructure\obj\Debug\net8.0\VNTrackPal.Infrastructure.AssemblyInfo.cs
+D:\VNTrackPal\src\VNTrackPal.Infrastructure\obj\Debug\net8.0\VNTrackPal.Infrastructure.csproj.CoreCompileInputs.cache
+D:\VNTrackPal\src\VNTrackPal.Infrastructure\obj\Debug\net8.0\VNTrackPal.Infrastructure.dll
+D:\VNTrackPal\src\VNTrackPal.Infrastructure\obj\Debug\net8.0\refint\VNTrackPal.Infrastructure.dll
+D:\VNTrackPal\src\VNTrackPal.Infrastructure\obj\Debug\net8.0\VNTrackPal.Infrastructure.pdb
+D:\VNTrackPal\src\VNTrackPal.Infrastructure\obj\Debug\net8.0\ref\VNTrackPal.Infrastructure.dll
+D:\VNTrackPal\src\VNTrackPal.Infrastructure\bin\Debug\net8.0\VNTrackPal.Contract.dll
+D:\VNTrackPal\src\VNTrackPal.Infrastructure\bin\Debug\net8.0\VNTrackPal.Contract.pdb
+D:\VNTrackPal\src\VNTrackPal.Infrastructure\obj\Debug\net8.0\VNTrackPal.Infrastructure.csproj.AssemblyReference.cache
+D:\VNTrackPal\src\VNTrackPal.Infrastructure\obj\Debug\net8.0\VNTrackP.7A4127E2.Up2Date
